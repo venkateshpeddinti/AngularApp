@@ -1,0 +1,27 @@
+
+.namesEl {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: yellow;
+    color: black;
+    font-size: larger;
+    border-radius: 5px;
+    
+
+}
+.buttonEl{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+.descriptionEl{
+    font-size: large;
+    text-justify: auto;
+}
