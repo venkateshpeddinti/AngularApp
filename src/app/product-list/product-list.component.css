@@ -1,16 +1,19 @@
 
 .namesEl {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: yellow;
+    background-color:lightpink;
     color: black;
     font-size: larger;
     border-radius: 5px;
+    background: fixed;
+    text-shadow: 6px;
+    text-transform: uppercase;
     
 
 }
-.buttonEl{
+/* .buttonEl{
     background-color: #4CAF50; /* Green */
-    border: none;
+   /* border: none;
     color: white;
     padding: 10px 24px;
     text-align: center;
@@ -24,4 +27,4 @@
 .descriptionEl{
     font-size: large;
     text-justify: auto;
-}
+} */
